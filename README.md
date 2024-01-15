@@ -1,13 +1,22 @@
-# Twitter_Post_Analysis
- This project focuses on optimizing Twitter data extraction through APIFY, emphasizing speed, flexibility, and error-handling to enhance efficiency and seamless integration into downstream analysis workflows.
+# Twitter Post Analysis Project
 
-DOMAIN - CAR
-Leong Yi Hong (1191100292) Mercedes-Benz
-Alvin Fong Weng Yew (1191100280) BMW
-Tan Sin Zhung (1191100281) Lamborghini
-Chow Yi Ying (1191100981) Honda
+This project is part of the Social Media Computing assignment at Multimedia University, focusing on optimizing Twitter data extraction through APIFY. The primary goals are to enhance efficiency, emphasize speed, flexibility, and implement robust error-handling mechanisms, ensuring seamless integration into downstream analysis workflows.
 
+## Project Team - Domain: Car
 
--The file directory to read json file require changes.
+- Leong Yi Hong (1191100292): Mercedes-Benz
+- Alvin Fong Weng Yew (1191100280): BMW
+- Tan Sin Zhung (1191100281): Lamborghini
+- Chow Yi Ying (1191100981): Honda
 
--All the data is downloaded using APIfy API. Hence, there is no code related to download the datasets
+## Project Overview
+
+The project leverages APIFY for Twitter data extraction, providing a streamlined approach to handle large-scale data retrieval. The emphasis on speed and flexibility ensures adaptability to specific project requirements, while error-handling mechanisms contribute to consistent and reliable results.
+
+## Instructions
+
+1. **File Directory Setup:**
+   - Make necessary changes to the file directory for reading the JSON file, adapting it to your specific setup.
+
+2. **Data Retrieval:**
+   - All data has been downloaded using the APIFY API. No additional code is provided for downloading datasets.
